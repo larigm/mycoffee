@@ -1,31 +1,44 @@
-☕ MyCoffee
+# ☕ MyCoffee
 
-Projeto desenvolvido para a Avaliação 2 da disciplina de Programação para Dispositivos Móveis.
+<p align="center">
+  Aplicação CRUD desenvolvida para a Avaliação 2 da disciplina de Programação para Dispositivos Móveis.
+</p>
 
-O MyCoffee é uma aplicação CRUD voltada para o gerenciamento de uma cafeteria, permitindo o cadastro e controle de produtos disponíveis no cardápio, facilitando operações de criação, visualização, edição e exclusão de itens.
+---
 
-📌 Sobre o Projeto
+## 📖 Sobre o projeto
 
-A aplicação foi desenvolvida utilizando React com o objetivo de aplicar conceitos fundamentais do desenvolvimento mobile, trabalhando operações de CRUD (Create, Read, Update e Delete) em um sistema de gerenciamento simples e funcional.
+O **MyCoffee** é uma aplicação desenvolvida com o objetivo de simular o gerenciamento de uma cafeteria, permitindo realizar operações de cadastro, visualização, edição e remoção de produtos.
 
-O sistema simula o gerenciamento de uma cafeteria, permitindo administrar produtos como cafés, bebidas e acompanhamentos.
+O projeto foi criado como parte da **Avaliação 2** da disciplina **Programação para Dispositivos Móveis**, colocando em prática conceitos fundamentais do desenvolvimento com React.
 
-🚀 Funcionalidades
-✅ Cadastrar novos produtos
-✅ Listar produtos cadastrados
-✅ Editar informações de produtos
-✅ Excluir produtos do sistema
-✅ Interface intuitiva e responsiva
-✅ Gerenciamento dinâmico de estados
-🛠️ Tecnologias Utilizadas
-React
-JavaScript
-HTML5
-CSS3
-React Hooks
-Componentização
-Git e GitHub
-📂 Estrutura do Projeto
+---
+
+## ✨ Funcionalidades
+
+- 📌 Cadastro de novos produtos  
+- 📋 Listagem de produtos cadastrados  
+- ✏️ Edição de informações  
+- 🗑️ Exclusão de produtos  
+- 🔄 Atualização dinâmica da interface  
+- 📱 Interface organizada e intuitiva  
+
+---
+
+## 🚀 Tecnologias utilizadas
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</p>
+
+---
+
+## 📂 Estrutura do projeto
+
+```bash
 mycoffee/
 │── src/
 │   ├── components/
@@ -37,33 +50,52 @@ mycoffee/
 │── public/
 │── package.json
 │── README.md
-🎯 Objetivo Acadêmico
+```
 
-Este projeto foi desenvolvido com a finalidade de colocar em prática os conhecimentos adquiridos na disciplina de Programação para Dispositivos Móveis, aplicando conceitos como:
+---
 
-Desenvolvimento com componentes reutilizáveis
-Manipulação de estados
-Navegação entre telas
-Implementação das operações CRUD
-Organização e estruturação de projetos em React
-▶️ Como Executar o Projeto
+## ⚙️ Como executar o projeto
 
 Clone o repositório:
 
-git clone <url-do-repositorio>
+```bash
+git clone https://github.com/seu-usuario/mycoffee.git
+```
 
-Acesse a pasta:
+Entre na pasta:
 
+```bash
 cd mycoffee
+```
 
 Instale as dependências:
 
+```bash
 npm install
+```
 
 Execute o projeto:
 
+```bash
 npm start
-👩‍💻 Desenvolvido por
+```
 
-Larissa Gomes Machado
-Avaliação 2 — Programação para Dispositivos Móveis
+---
+
+## 🎯 Objetivo acadêmico
+
+Projeto desenvolvido para aplicar conhecimentos em:
+
+- Componentização  
+- Manipulação de estados  
+- Desenvolvimento de interfaces  
+- Operações CRUD  
+- Organização de projetos React  
+
+---
+
+## 👩‍💻 Desenvolvido por
+
+**Larissa Gomes Machado**
+
+Projeto acadêmico desenvolvido para a disciplina de **Programação para Dispositivos Móveis**.
