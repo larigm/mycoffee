@@ -58,7 +58,7 @@ mycoffee/
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/mycoffee.git
+git clone https://github.com/larigm/mycoffee.git
 ```
 
 Entre na pasta:
